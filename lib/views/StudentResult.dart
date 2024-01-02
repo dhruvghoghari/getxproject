@@ -4,7 +4,6 @@ import 'package:get/get_core/src/get_main.dart';
 import '../controller/StudentController.dart';
 
 class StudentResult extends StatelessWidget {
-  const StudentResult({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

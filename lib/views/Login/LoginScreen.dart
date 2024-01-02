@@ -67,6 +67,7 @@ class LoginScreen extends GetView<Login_Controller> {
                   ScaffoldMessenger.of(context).showSnackBar(snackbar);
                 }
             }, child: Text("Submit")),
+
             SizedBox(height: 10.0),
             Text("OR",style: TextStyle(
                 fontSize: 15.0,

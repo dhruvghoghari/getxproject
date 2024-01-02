@@ -9,5 +9,4 @@ class AddEmployee extends GetView<EmployeeController>
     // TODO: implement build
     throw UnimplementedError();
   }
-  
 }

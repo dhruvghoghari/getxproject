@@ -20,8 +20,7 @@ class EmployeeController extends GetxController
   RxList<Employe>? alldata = <Employe>[].obs;
 
 
-  getdata() async
-  {
+  getdata() async {
     print("cALL");
     // APi
     try
